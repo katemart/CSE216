@@ -25,6 +25,7 @@ hs_err_pid*
 # Anything ide specific
 .idea/
 venv/
+__pycache__/
 # Temp directories
 bin/
 out/
